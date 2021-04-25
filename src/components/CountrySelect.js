@@ -1,7 +1,6 @@
 import React from "react";
 
 const CountrySelect = (props) => {
-  console.log(props);
   return (
     <select
       className="form-select mt-10 block w-full border p-3 rounded"
